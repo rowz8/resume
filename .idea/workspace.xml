@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd2dbd34-c466-4f4f-af50-52c314b063a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kwg_portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umsl_portafolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,8 @@
       <updated>1624799181391</updated>
       <workItem from="1624799182621" duration="8288000" />
       <workItem from="1624835937901" duration="9670000" />
-      <workItem from="1624887628958" duration="1169000" />
+      <workItem from="1624887628958" duration="1172000" />
+      <workItem from="1625055022537" duration="177000" />
     </task>
     <servers />
   </component>
